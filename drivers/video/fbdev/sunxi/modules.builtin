@@ -1,0 +1,2 @@
+drivers/video/fbdev/sunxi/disp2/disp/disp.ko
+drivers/video/fbdev/sunxi/disp2/hdmi2/hdmi20.ko
